@@ -1,9 +1,8 @@
-<h1>ADS - Dog Breed Identification Project</h1>
+<h1>BookStore</h1>
 
-If you guys are running AWS python file you will be needing to setup AWS environment for which links has been mentioned in the pyhton file.
 
-Once you complete the setup for AWS environment you will need to SSH to your EC2 instance 
+Simple RESTful api implementation using Node.js, Express, Mongoose and MongoDB 
 
-After that you will need to activate tensorflow on your Anaconda prompt of your EC2 instance.
+Performed CRUD operations using Postman API
 
-If you need to install some additional libraries you can install using "pip install" command.
+Used React as frontend to get all the nearby users based on their Geo Coordinates
